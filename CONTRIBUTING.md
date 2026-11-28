@@ -2,9 +2,9 @@
 
 ### Reporting issues
 
-To report issues against this repository, please use JIRA: https://issues.redhat.com/browse/RHIDP with Component: **Support**.
+To report issues against this repository, please use JIRA: https://redhat.atlassian.net/browse/RHDHBUGS with Component: **Mustgather**. The team reviews issues there.
 
-To browse the existing issues, you can use this [Query](https://issues.redhat.com/issues/?jql=project%20%3D%20%22Red%20Hat%20Internal%20Developer%20Platform%22%20%20AND%20component%20%3D%20Support%20AND%20resolution%20%3D%20Unresolved%20ORDER%20BY%20status%2C%20priority%2C%20updated%20%20%20%20DESC).
+To browse the existing issues, you can use this [Query](https://redhat.atlassian.net/issues/?jql=project%20%3D%20%22RHDHBUGS%22%20AND%20component%20%3D%20Mustgather%20AND%20resolution%20%3D%20Unresolved%20ORDER%20BY%20status%2C%20priority%2C%20updated%20%20%20%20DESC).
 
 Contributions are welcome!
 
